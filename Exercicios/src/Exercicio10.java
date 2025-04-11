@@ -9,5 +9,7 @@ public class Exercicio10 {
         for (int i = numero; i >= 0; i--) {
             System.out.println(i);
         }
+
+        sc.close();
     }
 }
