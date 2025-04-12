@@ -27,5 +27,7 @@ public class Exercicio16 {
         } else {
             System.out.println("O número " + numeroValidar + " não está na lista");
         }
+
+        sc.close();
     }
 }
